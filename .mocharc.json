@@ -1,0 +1,8 @@
+{
+  "file": ["./test/helpers/global.js"],
+  "extension": ["spec.js"],
+  "recursive": true,
+  "reporter": "spec",
+  "ui": "bdd",
+  "timeout": 0
+}
